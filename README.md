@@ -8,6 +8,9 @@ now with 50% more Insomnia
 Todo:
 
 Command manager
+
 Event Handler
+
 Discord RPC
+
 and more
