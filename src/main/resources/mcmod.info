@@ -2,13 +2,13 @@
   {
     "modid": "InsomniaMod",
     "name": "Insomnia",
-    "description": "",
+    "description": "kinda poggers",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
-    "authorList": [],
-    "credits": "",
+    "authorList": [JoaoShiozo],
+    "credits": "Reap for Insomnia client",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
