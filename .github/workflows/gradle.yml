@@ -1,7 +1,4 @@
-# This workflow will build a Java project with Gradle
-# For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
-
-name: Java CI with Gradle
+name: Gradle Build
 
 on:
   push:
@@ -23,4 +20,15 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Build with Gradle
-      run: ./gradlew build
+      run: |
+        ./gradlew setupDecompWorkspace
+        ./gradlew build
+    - name: List files
+      run: ls
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v2
+      with:
+       # Artifact name
+       name: Insomnia
+       # A file, directory or wildcard pattern that describes what to upload
+       path: ./build/libs/*-release.jar
