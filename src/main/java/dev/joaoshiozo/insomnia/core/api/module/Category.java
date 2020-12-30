@@ -8,7 +8,6 @@ public enum Category
     MOVEMENT("Movement"),
     RENDER("Render"),
     CHAT("Chat")
-    //COMPONENT("Component"),package dev.joaoshiozo.insomnia.core.api.module;
     HIDDEN("Hidden");
     
     public class category {

@@ -1,7 +1,7 @@
 package dev.joaoshiozo.insomnia.core.api.command;
 
 import dev.joaoshiozo.insomnia.core.api.util.LoggerUtil;
-import dev.joaoshiozo.insomnia.core.api.impl.command.*;
+import dev.joaoshiozo.insomnia.core.impl.command.*;
 
 import java.util.ArrayList;
 

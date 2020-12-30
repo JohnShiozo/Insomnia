@@ -2,15 +2,15 @@ package dev.joaoshiozo.insomnia.core.api.module;
 
 import dev.joaoshiozo.insomnia.InsomniaMod;
 import dev.joaoshiozo.insomnia.core.api.Setting.Setting;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Chat.AutoEZ;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Chat.BetterChat;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Chat.ChatSuffix;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Combat.*;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Misc.*;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Movement.*;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Render.*;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Render.Watermark;
-import dev.joaoshiozo.insomnia.core.api.impl.module.Render.HoleESP;
+import dev.joaoshiozo.insomnia.core.impl.module.Chat.AutoEZ;
+import dev.joaoshiozo.insomnia.core.impl.module.Chat.BetterChat;
+import dev.joaoshiozo.insomnia.core.impl.module.Chat.ChatSuffix;
+import dev.joaoshiozo.insomnia.core.impl.module.Combat.*;
+import dev.joaoshiozo.insomnia.core.impl.module.Misc.*;
+import dev.joaoshiozo.insomnia.core.impl.module.Movement.*;
+import dev.joaoshiozo.insomnia.core.impl.module.Render.*;
+import dev.joaoshiozo.insomnia.core.impl.module.Render.Watermark;
+import dev.joaoshiozo.insomnia.core.impl.module.Render.HoleESP;
 
 
 import java.lang.reflect.Field;
