@@ -14,3 +14,5 @@ Event Handler
 Discord RPC
 
 and more
+
+thanks denomi for serenity
