@@ -7,11 +7,7 @@ now with 50% more Insomnia
 
 Todo:
 
-Command manager
-
-Event Handler
-
-Discord RPC
+make project actually build lool
 
 and more
 
