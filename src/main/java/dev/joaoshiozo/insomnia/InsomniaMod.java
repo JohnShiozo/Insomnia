@@ -1,6 +1,6 @@
-package client.insomnia;
+package dev.joaoshiozo.insomnia;
 
-import client.insomnia.mixin.InsomniaMixinLoader;
+import dev.joaoshiozo.insomnia.mixin.InsomniaMixinLoader;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;

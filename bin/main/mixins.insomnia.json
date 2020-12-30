@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "client.insomnia.mixin.mixins",
+  "refmap": "mixins.gamesense.refmap.json",
+  "mixins": [
+    "MixinPlaceholder"
+  ]
+}
