@@ -1,4 +1,4 @@
-package client.insomnia.mixin.mixins;
+package dev.joaoshiozo.insomnia.mixin.mixins;
 
 import client.insomnia.InsomniaMod;
 import org.spongepowered.asm.mixin.Mixin;

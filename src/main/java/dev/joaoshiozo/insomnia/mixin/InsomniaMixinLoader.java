@@ -1,4 +1,4 @@
-package client.insomnia.mixin;
+package dev.joaoshiozo.insomnia.mixin
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import org.spongepowered.asm.launch.MixinBootstrap;
