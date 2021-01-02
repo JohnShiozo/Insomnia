@@ -11,4 +11,4 @@ make project actually build lool (missing classes and mixins)
 
 and more
 
-thanks denomi for serenity and reap for insomnia
+thanks denomi & Lnadav for serenity and reap for insomnia
