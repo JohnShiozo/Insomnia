@@ -2,18 +2,13 @@ package dev.joaoshiozo.insomnia.core.api.module;
 
 public enum Category
 {
-    COMBAT("Combat"),
-    EXPLOIT("Exploit"),
-    MISC("Misc"),
-    MOVEMENT("Movement"),
-    RENDER("Render"),
-    CHAT("Chat")
-    HIDDEN("Hidden");
-    
-    public class category {
-        
-    }
-    
+	COMBAT("Combat"),
+	RENDER("Render"),
+	MOVEMENT("Movement"),
+	EXPLOIT("Exploit"),
+	CHAT("Chat"),
+	MISC("Miscellaneous"),
+	//COMPONENT("Component"),
 	HIDDEN("Hidden");
 
 	private String name;
