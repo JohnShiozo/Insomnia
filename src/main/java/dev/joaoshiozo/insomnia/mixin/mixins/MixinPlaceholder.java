@@ -1,6 +1,6 @@
 package dev.joaoshiozo.insomnia.mixin.mixins;
 
-import client.insomnia.InsomniaMod;
+import dev.joaoshiozo.insomnia.InsomniaMod;
 import org.spongepowered.asm.mixin.Mixin;
 
 @Mixin(InsomniaMod.class)
